@@ -1,12 +1,20 @@
 # DS-challenge-Telecom-X
 📊 Proyecto: Churn de Clientes – Telecom X
-📌 Introducción
 
-Este proyecto forma parte del análisis de la tasa de abandono (churn) en la empresa Telecom X, que atraviesa una crisis debido al elevado número de cancelaciones de sus servicios.
+🔎 Visión General
 
-El objetivo principal fue identificar los factores que influyen en la deserción de clientes, con el fin de generar información estratégica que permita diseñar acciones para mejorar la retención.
+Este repositorio contiene un proyecto de análisis de datos orientado a comprender y mitigar la tasa de abandono de clientes (churn) en Telecom X, una empresa ficticia del sector telecomunicaciones. El trabajo incluyó un proceso ETL (Extracción, Transformación y Carga) y se desarrolló en Python, utilizando librerías como pandas, matplotlib y seaborn.
 
-El trabajo incluyó un proceso ETL (Extracción, Transformación y Carga) y se desarrolló en Python, utilizando librerías como pandas, matplotlib y seaborn.
+🎯 Objetivos del Análisis
+
+El problema central que enfrenta Telecom X es una alta tasa de cancelación de servicios. Para abordarlo, este proyecto se enfocó en:
+
+📌 Identificar patrones y tendencias en el comportamiento de clientes que abandonan.
+
+📌 Detectar variables clave (demográficas, de servicio, de contrato y de gasto) fuertemente asociadas al churn.
+
+📌 Extraer insights accionables que ayuden a la gerencia y al equipo de Data Science para que se aprovechen en la retención de clientes.
+
 
 🧹 Limpieza y Tratamiento de Datos
 
@@ -18,11 +26,17 @@ Se aplicaron diferentes pasos de depuración para garantizar la calidad y consis
 
 🔹 Estandarización de nombres: todas las columnas se normalizaron al español en minúsculas y con guiones bajos.
 
-🔹 Nuevas variables creadas:
+🔹 Nuevas variables creadas: ej. cargo_diario → derivado del cargo mensual. Esto se realizó con la ayuda del diccionario de datos.
 
-cargo_diario → derivado del cargo mensual.
+📂 Estructura del Repositorio
 
-cantidad_servicios → suma de servicios contratados por cliente.
+README.md → Documento principal con la descripción general del proyecto.
+
+Challenge Telecom X – análisis de evasión de clientes.ipynb → Notebook con todo el código en Python, análisis, visualizaciones e informe final.
+
+df_final.jos → Dataset final consolidado tras el proceso de limpieza y transformación de datos.
+
+Diccionario.md → Significado de variables
 
 🔎 Análisis Exploratorio de Datos (EDA)
 

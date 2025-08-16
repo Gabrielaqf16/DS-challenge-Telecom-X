@@ -32,7 +32,7 @@ Se aplicaron diferentes pasos de depuración para garantizar la calidad y consis
 
 README.md → Documento principal con la descripción general del proyecto.
 
-Challenge Telecom X – análisis de evasión de clientes.ipynb → Notebook con todo el código en Python, análisis, visualizaciones e informe final.
+Telecom_X_Latam.ipynb → Notebook con todo el código en Python, análisis, visualizaciones e informe final.
 
 df_final.jos → Dataset final consolidado tras el proceso de limpieza y transformación de datos.
 

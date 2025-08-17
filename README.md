@@ -1,5 +1,5 @@
-# DS-challenge-Telecom-X
-📊 Proyecto: Churn de Clientes – Telecom X
+# 📊 : Proyecto DS-challenge-Telecom-X
+
 
 🔎 Visión General
 

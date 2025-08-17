@@ -1,11 +1,11 @@
 # 📊 : Proyecto DS-challenge-Telecom-X
 
 
-#🔎 Visión General
+# 🔎 Visión General
 
 Este repositorio contiene un proyecto de análisis de datos orientado a comprender y mitigar la tasa de abandono de clientes (churn) en Telecom X, una empresa ficticia del sector telecomunicaciones. El trabajo incluyó un proceso ETL (Extracción, Transformación y Carga) y se desarrolló en Python, utilizando librerías como pandas, matplotlib y seaborn.
 
-#🎯 Objetivos del Análisis
+# 🎯 Objetivos del Análisis
 
 El problema central que enfrenta Telecom X es una alta tasa de cancelación de servicios. Para abordarlo, este proyecto se enfocó en:
 
@@ -16,7 +16,7 @@ El problema central que enfrenta Telecom X es una alta tasa de cancelación de s
 📌 Extraer insights accionables que ayuden a la gerencia y al equipo de Data Science para que se aprovechen en la retención de clientes.
 
 
-#🧹 Limpieza y Tratamiento de Datos
+# 🧹 Limpieza y Tratamiento de Datos
 
 Se aplicaron diferentes pasos de depuración para garantizar la calidad y consistencia del dataset:
 
@@ -28,7 +28,7 @@ Se aplicaron diferentes pasos de depuración para garantizar la calidad y consis
 
 🔹 Nuevas variables creadas: ej. cargo_diario → derivado del cargo mensual. Esto se realizó con la ayuda del diccionario de datos.
 
-#📂 Estructura del Repositorio
+# 📂 Estructura del Repositorio
 
 README.md → Documento principal con la descripción general del proyecto.
 
@@ -40,7 +40,7 @@ datos_normalizados_telecomX.json → Dataset final consolidado tras el proceso d
 
 TelecomX_diccionario.md → Significado de variables
 
-#🔎 Análisis Exploratorio de Datos (EDA)
+# 🔎 Análisis Exploratorio de Datos (EDA)
 
 El análisis reveló patrones clave en el comportamiento de los clientes:
 
@@ -56,7 +56,7 @@ Mayor churn ↔ clientes con cargos mensuales más altos o con pocos servicios.
 
 🧩 Correlaciones: meses_contrato tiene la correlación negativa más fuerte con el churn → la antigüedad es un factor clave de retención.
 
-#🚀 Tecnologías utilizadas
+# 🚀 Tecnologías utilizadas
 
 - Python 3.10+ 🐍
 - Pandas – para manipulación y análisis de datos.

@@ -38,7 +38,7 @@ TelecomX_Data → Dataset inicial del proyecto Telecom_X
 
 datos_normalizados_telecomX.json → Dataset final consolidado tras el proceso de limpieza y transformación de datos.
 
-Diccionario.md → Significado de variables
+TelecomX_diccionario.md → Significado de variables
 
 🔎 Análisis Exploratorio de Datos (EDA)
 

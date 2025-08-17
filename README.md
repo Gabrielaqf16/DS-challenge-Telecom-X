@@ -56,25 +56,18 @@ Mayor churn ↔ clientes con cargos mensuales más altos o con pocos servicios.
 
 🧩 Correlaciones: meses_contrato tiene la correlación negativa más fuerte con el churn → la antigüedad es un factor clave de retención.
 
-📈 Conclusiones e Insights
-
-Antigüedad con la empresa: los clientes con más tiempo de permanencia tienen menor propensión a abandonar → fidelización temprana es clave.
-
-Carga económica: cargos mensuales altos aumentan levemente el abandono → revisar precios y valor percibido.
-
-Compromiso con el servicio: más servicios contratados se asocian con menor churn → impulsar paquetes integrados.
-
-Factores personales: clientes con pareja o dependientes presentan menor churn → segmentar estrategias de acuerdo al perfil familiar.
-
-
 🚀 Tecnologías utilizadas
 
-Python 🐍
+- Python 3.10+ 🐍
+- Pandas – para manipulación y análisis de datos.
+- Matplotlib – para visualización de datos.
+- Seaborn - para visualización de datos.
+- Jupyter Notebook / Google Colab – entorno usado para desarrollo y visualización interactiva.
 
-Pandas
+  📦 Dependencias
+Asegúrate de tener instaladas las siguientes librerías antes de ejecutar el análisis:
 
-Matplotlib
+- pip install pandas matplotlib
 
-Seaborn
-
-👉 
+✍️ Autor
+Gabriela Quispe Farfán -- [gabrielaqf16](https://github.com/gabrielaqf16)

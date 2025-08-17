@@ -34,7 +34,9 @@ README.md → Documento principal con la descripción general del proyecto.
 
 Telecom_X_Latam.ipynb → Notebook con todo el código en Python, análisis, visualizaciones e informe final.
 
-df_final.jos → Dataset final consolidado tras el proceso de limpieza y transformación de datos.
+TelecomX_Data → Dataset inicial del proyecto Telecom_X
+
+datos_normalizados_telecomX.json → Dataset final consolidado tras el proceso de limpieza y transformación de datos.
 
 Diccionario.md → Significado de variables
 

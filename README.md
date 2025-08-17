@@ -44,7 +44,7 @@ TelecomX_diccionario.md → Significado de variables
 
 El análisis reveló patrones clave en el comportamiento de los clientes:
 
-📉 Tasa de churn: cerca del 25% de los clientes abandonan el servicio.
+📉 Tasa de churn / Tasa de abandono
 
 🔄 Variables categóricas: tipo de contrato, forma de pago, servicios adicionales y presencia de dependientes muestran diferencias significativas en los niveles de churn.
 
@@ -66,13 +66,6 @@ Compromiso con el servicio: más servicios contratados se asocian con menor chur
 
 Factores personales: clientes con pareja o dependientes presentan menor churn → segmentar estrategias de acuerdo al perfil familiar.
 
-✅ Recomendaciones
-
-Modelo predictivo de churn: construir un modelo para identificar clientes con alto riesgo de abandono.
-
-Campañas de retención focalizadas: dirigir acciones a clientes vulnerables (ej. contratos mensuales o con pocos servicios).
-
-Mejorar el onboarding: fortalecer la experiencia de nuevos clientes para aumentar la probabilidad de permanencia.
 
 🚀 Tecnologías utilizadas
 
@@ -84,4 +77,4 @@ Matplotlib
 
 Seaborn
 
-👉 Este análisis constituye una base sólida para analítica avanzada, orientada a decisiones estratégicas basadas en datos (data-driven decision making).
+👉 
